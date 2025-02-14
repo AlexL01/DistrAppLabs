@@ -1,0 +1,8 @@
+com\hospitals\allergy\service\AllergyService.class
+com\hospitals\allergy\AllergyApplication.class
+com\hospitals\allergy\controller\AllergyController.class
+META-INF\spring-configuration-metadata.json
+com\hospitals\allergy\model\Allergy.class
+com\hospitals\allergy\config\LocalConfig.class
+com\hospitals\allergy\repository\AllergyRepository.class
+com\hospitals\allergy\config\ServiceConfig.class

@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "example",
+      "type": "com.hospitals.allergy.config.ServiceConfig",
+      "sourceType": "com.hospitals.allergy.config.ServiceConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "example.property",
+      "type": "java.lang.String",
+      "sourceType": "com.hospitals.allergy.config.ServiceConfig"
+    }
+  ],
+  "hints": []
+}
