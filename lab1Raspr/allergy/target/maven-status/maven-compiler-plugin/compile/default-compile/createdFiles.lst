@@ -1,0 +1,4 @@
+com\hospitals\allergy\AllergyApplication.class
+com\hospitals\allergy\controller\AllergyController.class
+com\hospitals\allergy\service\AllergyService.class
+com\hospitals\allergy\model\Allergy.class
